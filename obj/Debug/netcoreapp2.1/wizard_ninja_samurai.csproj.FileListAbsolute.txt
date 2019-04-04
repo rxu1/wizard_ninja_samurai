@@ -1,0 +1,11 @@
+/Users/rx/Documents/CodingDojo/csharp_stack/lang_fund/wizard_ninja_samurai/obj/Debug/netcoreapp2.1/wizard_ninja_samurai.csprojAssemblyReference.cache
+/Users/rx/Documents/CodingDojo/csharp_stack/lang_fund/wizard_ninja_samurai/obj/Debug/netcoreapp2.1/wizard_ninja_samurai.csproj.CoreCompileInputs.cache
+/Users/rx/Documents/CodingDojo/csharp_stack/lang_fund/wizard_ninja_samurai/obj/Debug/netcoreapp2.1/wizard_ninja_samurai.AssemblyInfoInputs.cache
+/Users/rx/Documents/CodingDojo/csharp_stack/lang_fund/wizard_ninja_samurai/obj/Debug/netcoreapp2.1/wizard_ninja_samurai.AssemblyInfo.cs
+/Users/rx/Documents/CodingDojo/csharp_stack/lang_fund/wizard_ninja_samurai/bin/Debug/netcoreapp2.1/wizard_ninja_samurai.deps.json
+/Users/rx/Documents/CodingDojo/csharp_stack/lang_fund/wizard_ninja_samurai/bin/Debug/netcoreapp2.1/wizard_ninja_samurai.runtimeconfig.json
+/Users/rx/Documents/CodingDojo/csharp_stack/lang_fund/wizard_ninja_samurai/bin/Debug/netcoreapp2.1/wizard_ninja_samurai.runtimeconfig.dev.json
+/Users/rx/Documents/CodingDojo/csharp_stack/lang_fund/wizard_ninja_samurai/bin/Debug/netcoreapp2.1/wizard_ninja_samurai.dll
+/Users/rx/Documents/CodingDojo/csharp_stack/lang_fund/wizard_ninja_samurai/bin/Debug/netcoreapp2.1/wizard_ninja_samurai.pdb
+/Users/rx/Documents/CodingDojo/csharp_stack/lang_fund/wizard_ninja_samurai/obj/Debug/netcoreapp2.1/wizard_ninja_samurai.dll
+/Users/rx/Documents/CodingDojo/csharp_stack/lang_fund/wizard_ninja_samurai/obj/Debug/netcoreapp2.1/wizard_ninja_samurai.pdb
